@@ -6,4 +6,4 @@ This pack is NOT required to join the ERRSA Minecraft Server.
 
 ## Download
 
-Download the latest version from the Releases section.
+[Download Latest Release](https://github.com/DB-ERRSA/ERRSA-MC-ClientResourcePack/releases/latest)
